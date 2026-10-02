@@ -1,0 +1,21 @@
+freecad/RobustMCPBridge/__init__.py
+  s_c62a371a010e94::t_610dabda9f428c 16-26,28
+tests/unit/addon/test_addon_structure.py
+  s_c62a371a010e94::t_ebace27cb6159a 129-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d1aad7b43424a2362eb394e9eb1e8dd093605605",
+  "prompts": {},
+  "sessions": {
+    "s_c62a371a010e94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8755ed4-04ad-4291-ad70-0b50b6f0e2c3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Tim Berglund <tlberglund@gmail.com>"
+    }
+  }
+}
