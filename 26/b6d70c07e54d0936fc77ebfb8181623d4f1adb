@@ -1,0 +1,16 @@
+tests/unit/addon/test_addon_structure.py
+  h_1f5d0d6882e44b 141-142
+freecad/RobustMCPBridge/__init__.py
+  h_1f5d0d6882e44b 23-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "26b6d70c07e54d0936fc77ebfb8181623d4f1adb",
+  "prompts": {},
+  "humans": {
+    "h_1f5d0d6882e44b": {
+      "author": "Tim Berglund <tlberglund@gmail.com>"
+    }
+  }
+}
